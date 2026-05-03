@@ -1,3 +1,4 @@
+
 Welcome guys ito repo natin 
 Gawa nalang kayo branching niyo per group
 
@@ -18,3 +19,4 @@ git checkout < name ng branch niyo> example ganto git checkout Capili_dev
 step 4 
 go to vs code open mo yung folder kung saan mo nilagay then ayun nasya ganto na mangyayari 
 
+<img width="1366" height="768" alt="Screenshot (2412)" src="https://github.com/user-attachments/assets/7143b1a1-3970-4374-8a35-876a65182888" />
