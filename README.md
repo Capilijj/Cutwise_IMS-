@@ -13,8 +13,8 @@ git clone then right click paste mo yung na copy na code repo kanina , then bali
 
 # Step 3
 type mo sa git bash type mo tong mga to
-git branch -a   # meaning nito is makikita lahat ng name branch
-git checkout < name ng branch niyo> example ganto git checkout Capili_dev - ito para mapunta kasa branch niyo mismo wag sa main
+ " git branch -a "  # meaning nito is makikita lahat ng name branch
+" git checkout < name ng branch niyo> "  , example ganto , git checkout Capili_dev - ito para mapunta kasa branch niyo mismo wag sa main
 
 # Step 4
 go to vs code open mo yung folder kung saan mo nilagay then ayun nasya ganto na mangyayari 
