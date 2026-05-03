@@ -1,6 +1,6 @@
 
-Welcome guys ito repo natin 
-Gawa nalang kayo branching niyo per group
+# Welcome guys ito repo natin 
+# Gawa nalang kayo branching niyo per group
 
 # STEP 1
 CLICK niyo yang Main namay drop down then click yung view all branch then create kana ng new branch , name mo ang branch niyo 
