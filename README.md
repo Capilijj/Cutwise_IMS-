@@ -18,4 +18,3 @@ git checkout < name ng branch niyo> example ganto git checkout Capili_dev
 step 4 
 go to vs code open mo yung folder kung saan mo nilagay then ayun nasya ganto na mangyayari 
 
-![Uploading image.png…]()
