@@ -11,9 +11,11 @@ right click mo click mo yung git bash here then type mo doon yung
 git clone then right click paste mo yung na copy na code repo kanina , then balik kana sa git bash 
 
 # Step 3
+then next x mo yung git bash tapos click mo yung na copy na repo sa file explorer yun cutwise_IMS dun ka mag git bash here right click type mo 
 type mo sa git bash type mo tong mga to
  " git branch -a " 
  meaning nito is makikita lahat ng name branch
+ 
 " git checkout < name ng branch niyo> "  
 example ganto , git checkout Capili_dev - ito para mapunta kasa branch niyo mismo wag sa main
 
