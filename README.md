@@ -11,12 +11,12 @@ pero bago mo magawa to make sure may git bash kana https://git-scm.com/install/w
 right click mo click mo yung git bash here then type mo doon yung
 git clone then right click paste mo yung na copy na code repo kanina , then balik kana sa git bash 
 
-step 3
+# Step 3
 type mo sa git bash type mo tong mga to
 git branch -a   # meaning nito is makikita lahat ng name branch
-git checkout < name ng branch niyo> example ganto git checkout Capili_dev
+git checkout < name ng branch niyo> example ganto git checkout Capili_dev - ito para mapunta kasa branch niyo mismo wag sa main
 
-step 4 
+# Step 4
 go to vs code open mo yung folder kung saan mo nilagay then ayun nasya ganto na mangyayari 
 
 <img width="1366" height="768" alt="Screenshot (2412)" src="https://github.com/user-attachments/assets/7143b1a1-3970-4374-8a35-876a65182888" />
