@@ -14,7 +14,7 @@ git clone then right click paste mo yung na copy na code repo kanina , then bali
 # Step 3
 type mo sa git bash type mo tong mga to
  " git branch -a " 
- # meaning nito is makikita lahat ng name branch
+ meaning nito is makikita lahat ng name branch
 " git checkout < name ng branch niyo> "  
 example ganto , git checkout Capili_dev - ito para mapunta kasa branch niyo mismo wag sa main
 
