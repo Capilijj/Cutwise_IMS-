@@ -20,5 +20,6 @@ example ganto , git checkout Capili_dev - ito para mapunta kasa branch niyo mism
 
 # Step 4
 go to vs code open mo yung folder kung saan mo nilagay then ayun nasya ganto na mangyayari 
+dapat branch niyo naka lagay sa baba hnd Main 
 
 <img width="1366" height="768" alt="Screenshot (2412)" src="https://github.com/user-attachments/assets/7143b1a1-3970-4374-8a35-876a65182888" />
